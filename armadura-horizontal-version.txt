@@ -1,1 +1,1 @@
-1.0.0|https://warehouse.tekla.com/#/packages/729237c3-87b2-4f65-b4fb-0d6a4fbd6e4c
+1.0.1|https://warehouse.tekla.com/#/packages/729237c3-87b2-4f65-b4fb-0d6a4fbd6e4c
